@@ -1,63 +1,64 @@
-# Hi, I'm Adham 
+# Hi, I'm Adham 👋
 
-Computer Science Student at Beni-Suef University  
-Cairo, Egypt  
-Aspiring Data Engineer
+**Computer Science Student | Aspiring Data Engineer**
 
----
+📍 Cairo, Egypt  
+🎓 Beni-Suef University  
+☁️ Samsung Innovation Campus — Big Data Track
 
 ## About Me
 
-I'm a Computer Science student passionate about Data Engineering, databases, and software development. I enjoy building practical projects and continuously improving my skills through hands-on learning.
+I'm a Computer Science student focused on **Data Engineering**, with an interest in building data pipelines, designing analytical data models, and working with cloud data platforms.
 
-Currently participating in the Samsung Innovation Campus (Big Data Track), where I'm strengthening my foundation in Python, SQL, and NoSQL databases.
----
+Through hands-on projects and the Samsung Innovation Campus Big Data Track, I've been developing experience with Python, SQL, PySpark, databases, and AWS services.
 
-## Skills
+I enjoy turning raw data into structured, reliable datasets that can support analytics and business decisions.
 
-### Languages
-- Python
-- C++
-- SQL
+## Technical Skills
 
-### Databases
-- Microsoft SQL Server
-- Database Design
+- **Programming:** Python, SQL, C++
+- **Data Processing:** Apache Spark, PySpark, Pandas
+- **Data Engineering:** ETL/ELT Pipelines, Data Quality, Data Cleaning, Dimensional Modeling, Star Schema, SCD Type 2
+- **Big Data & Lakehouse:** Databricks, Apache Hadoop, Apache Hive
+- **Databases & Query Engines:** MySQL, Microsoft SQL Server, MongoDB, Amazon Athena
+- **Cloud:** AWS
+- **Developer Tools:** Git, GitHub, Linux, Docker
+  
+## Featured Projects
 
-### Concepts
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Networking Fundamentals
----
+### E-Commerce Data Warehouse on AWS
+An end-to-end data warehouse combining historical e-commerce data with orders ingested from an API.
 
-## Currently Learning
+- Built checkpointed API ingestion using AWS Lambda and Amazon S3.
+- Used AWS Glue and PySpark for data cleaning, validation, deduplication, and dimensional modeling.
+- Stored processed datasets as Parquet and queried them using Amazon Athena.
+- **Tech:** Python, PySpark, AWS Lambda, S3, Glue, Athena
 
-- Advanced Python
-- SQL
-- NoSQL (MongoDB)
-- Data Engineering Fundamentals
+🔗 [View Project](https://github.com/adhamtak/ecommerce-data-warehouse)
 
----
+### Customers and Products Dimensional Modeling
+A dimensional modeling project focused on analytical data structures and historical product changes.
 
-## Projects
+- Designed customer and product dimensions for analytical workloads.
+- Implemented SCD Type 2 to preserve product price history.
+- Worked with Spark, Hive, and Hadoop/HDFS.
 
-- Bank Management System (C++, OOP)
-- Insurance Company Database (SQL)
-- Autonomous Maze-Solving Robot Simulator (Python)
-- Dice Roller App (Flutter)
-- Quiz App (Flutter)
+🔗 [View Project](https://github.com/adhamtak/Customers-and-Products-Dimensional-Modeling)
 
----
+## Currently Improving
 
-## Goals
+- Advanced SQL: joins, subqueries, and window functions
+- PySpark transformations and pipeline implementation
+- Data engineering fundamentals and pipeline reliability
+- AWS data services and cloud architecture
 
-- Build production-ready data engineering projects
-- Earn a Data Engineering internship
-- Contribute to open-source projects
-- Continuously learn and grow as an engineer
+## Career Goals
 
----
+- Secure a Data Engineering internship.
+- Build reliable, well-documented end-to-end data pipelines.
+- Contribute to open-source data engineering projects.
+- Continue developing my skills in cloud data platforms and distributed processing.
 
-## Connect with Me
+## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/adhamtarekabdelkhaleq
+🔗 [LinkedIn](https://www.linkedin.com/in/adhamtarekabdelkhaleq)
